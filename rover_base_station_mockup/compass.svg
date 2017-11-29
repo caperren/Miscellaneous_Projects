@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 744.09448819 1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   inkscape:export-filename="C:\Users\Corwin Perren\PycharmProjects\RoverBaseStationMockup\Resources\Images\compass.png"
+   inkscape:export-xdpi="750"
+   inkscape:export-ydpi="750"
+   sodipodi:docname="compass.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.979899"
+     inkscape:cx="367.83722"
+     inkscape:cy="536.84511"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <circle
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none"
+       id="path4136"
+       cx="376.42859"
+       cy="511.64792"
+       r="207.85715"
+       inkscape:export-xdpi="750"
+       inkscape:export-ydpi="750" />
+    <path
+       style="opacity:1;fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.82261443px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 376.42859,338.32234 0,344.63086"
+       id="path4140"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="750"
+       inkscape:export-ydpi="750" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.76764578px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 206.46343,511.64792 338.41509,0"
+       id="path4142"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="750"
+       inkscape:export-ydpi="750" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.73459327px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 229.90347,365.1228 522.9537,658.17303"
+       id="path4144"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="750"
+       inkscape:export-ydpi="750" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.70106518px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 523.39974,364.67677 228.95236,659.12415"
+       id="path4146"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="750"
+       inkscape:export-ydpi="750" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="361.42859"
+       y="334.8728"
+       id="text4148"
+       sodipodi:linespacing="125%"
+       inkscape:export-xdpi="750"
+       inkscape:export-ydpi="750"><tspan
+         sodipodi:role="line"
+         id="tspan4150"
+         x="361.42859"
+         y="334.8728">N</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-390.25671"
+       y="-687.89569"
+       id="text4152"
+       sodipodi:linespacing="125%"
+       inkscape:export-xdpi="750"
+       inkscape:export-ydpi="750"
+       transform="scale(-1,-1)"><tspan
+         sodipodi:role="line"
+         id="tspan4154"
+         x="-390.25671"
+         y="-687.89569">S</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-531.42334"
+       y="199.65347"
+       id="text4156"
+       sodipodi:linespacing="125%"
+       inkscape:export-xdpi="750"
+       inkscape:export-ydpi="750"
+       transform="matrix(0,-1,1,0,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan4158"
+         x="-531.42334"
+         y="199.65347">W</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="498.16159"
+       y="-553.20374"
+       id="text4160"
+       sodipodi:linespacing="125%"
+       inkscape:export-xdpi="750"
+       inkscape:export-ydpi="750"
+       transform="matrix(0,1,-1,0,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan4162"
+         x="498.16159"
+         y="-553.20374">E</tspan></text>
+  </g>
+</svg>
